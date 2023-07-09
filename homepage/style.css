@@ -27,9 +27,9 @@
   
   .iphone-14-2 {
     position: relative;
-    width: 390px;
-    height: 844px;
-    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    margin: 0;
     background-color: var(--white);
     border: 1px solid var(--dark-pink);
     border-radius: 40px;
@@ -41,7 +41,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 94px;
+    height: auto;
     padding: 24px;
     background-color: var(--pink);
     border-bottom: 5px solid var(--dark-pink);
@@ -74,20 +74,20 @@
   }
   
   .moodchart-1 {
-    width: 290px;
+    width: 100%;
     height: auto;
     margin-top: 30px;
   }
   
   .taskmanage-1 {
-    width: 325px;
+    width: 100%;
     height: auto;
     margin-bottom: 30px;
   }
   
   .group-497 {
     text-align: center;
-    width: 70%;
+    width: 90%;
     margin: 0 auto;
   }
   
@@ -105,7 +105,7 @@
   }
   
   .image-5 {
-    width: 290px;
+    width: 100%;
     height: auto;
   }
   
@@ -177,12 +177,13 @@
   }
   
   .mockup-1 {
-    width: 276px;
+    width: 100%;
     height: auto;
     margin: 30px 0;
   }
   
   .image-3 {
-    width: 390px;
+    width: 100%;
     height: auto;
   }
+  
