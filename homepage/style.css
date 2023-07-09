@@ -28,8 +28,8 @@
   .iphone-14-2 {
     position: relative;
     width: 100%;
-    height: auto;
-    margin: 0;
+    max-width: 390px;
+    margin: 0 auto;
     background-color: var(--white);
     border: 1px solid var(--dark-pink);
     border-radius: 40px;
@@ -185,5 +185,20 @@
   .image-3 {
     width: 100%;
     height: auto;
+  }
+  
+  /* Media Queries */
+  
+  @media (min-width: 768px) {
+    .iphone-14-2 {
+      width: 390px;
+      max-width: initial;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .iphone-14-2 {
+      width: 768px;
+    }
   }
   
