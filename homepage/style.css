@@ -59,8 +59,9 @@
   letter-spacing: -0.41px;
   line-height: 31px;
   margin-top: 64px;
-  min-height: 248px;
   width: 290px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .span1 {
@@ -153,6 +154,7 @@
   position: absolute;
   top: 0;
   width: 1446px;
+  overflow: hidden;
 }
 
 .rectangle-359 {
@@ -178,7 +180,6 @@
   left: 740px;
   min-height: 1586px;
   position: absolute;
-  top: 490px;
   width: 290px;
 }
 
@@ -186,8 +187,9 @@
   letter-spacing: -0.41px;
   line-height: 31px;
   margin-top: 433px;
-  min-height: 196px;
   width: 290px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .our-mood-tracking-fe {
@@ -204,15 +206,17 @@
   flex-direction: column;
   gap: 97px;
   margin-top: 107px;
-  min-height: 347px;
   width: 292px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .our-ai-powered-chat {
   letter-spacing: -0.41px;
   line-height: 31px;
-  min-height: 347px;
   width: 290px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .image-5 {
@@ -224,7 +228,7 @@
 .the-task-manager-fun {
   letter-spacing: -0.41px;
   line-height: 31px;
-  mmin-height: 246px;
+  min-height: 246px;
   width: 290px;
 }
 
@@ -274,7 +278,6 @@
   display: flex;
   gap: 122px;
   height: 689px;
-  margin-top: 260px;
   min-width: 592px;
 }
 
@@ -375,7 +378,7 @@
   line-height: normal;
   margin-top: 74px;
   min-height: 18px;
-  min-wdith: 242px;
+  min-width: 242px;
   white-space: nowrap;
 }
 
