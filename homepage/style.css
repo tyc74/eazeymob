@@ -67,8 +67,9 @@ body {
   }
   
   .feature-image {
-    width: 100px;
-    height: 100px;
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
   }
   
   .feature-title {
