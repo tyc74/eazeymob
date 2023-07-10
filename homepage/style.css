@@ -130,7 +130,7 @@ body {
     font-family: "Montserrat", sans-serif;
     background-color: #8CA594;
     color: #ffffff;
-    border: 1px solid #555555;
+    border: 1px solid #293051;
     padding: 8px 16px;
     margin-bottom: 10px;
     text-decoration: none;
@@ -147,8 +147,8 @@ body {
   .footer-links a {
     font-family: "Montserrat", sans-serif;
     background-color: #8CA594;
-    color: #999999;
-    border: 1px solid #999999;
+    color: #293051;
+    border: 1px solid #293051;
     padding: 6px 12px;
     margin: 5px;
     text-decoration: none;
@@ -158,7 +158,7 @@ body {
   .button:hover,
   .footer-links a:hover {
     background-color: #EBF8EF;
-    color: #ffffff;
+    color: #293051;
   }
 
   .hero-header {
