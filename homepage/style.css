@@ -164,6 +164,7 @@ body {
   .hero-header {
     position: relative;
     height: 400px;
+    width: 100%;
   }
   
   .hero-overlay {
@@ -184,6 +185,8 @@ body {
     text-align: center;
     color: #ffffff;
     padding-top: 100px;
+    max-width: 100%;
+    margin: 0 auto;
   }
   
   .hero-title {
