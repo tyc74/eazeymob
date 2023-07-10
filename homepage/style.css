@@ -160,6 +160,49 @@ body {
     background-color: #999999;
     color: #ffffff;
   }
+
+  .hero-header {
+    background-image: url('path/to/hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  .hero-content {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .hero-title {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+  
+  .hero-description {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .hero-button {
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    background-color: #555555;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .hero-button:hover {
+    background-color: #333333;
+  }
   
   
 
