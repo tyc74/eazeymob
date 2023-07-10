@@ -84,12 +84,12 @@ body {
     text-align: center;
   }
   
-  .footer {
+  /*.footer {
     background-color: #f9f9f9;
     padding: 10px;
     margin-top: 20px;
     border-radius: 10px;
-  }
+  }*/
   
   .footer-links {
     list-style: none;
@@ -112,7 +112,7 @@ body {
   }
 
   .footer {
-    background-color: #f9f9f9;
+    background-color: #D1E7D8;
     padding: 10px;
     margin-top: 20px;
     text-align: center;
@@ -128,7 +128,7 @@ body {
   
   .button {
     font-family: "Montserrat", sans-serif;
-    background-color: #555555;
+    background-color: #8CA594;
     color: #ffffff;
     border: 1px solid #555555;
     padding: 8px 16px;
@@ -146,7 +146,7 @@ body {
   
   .footer-links a {
     font-family: "Montserrat", sans-serif;
-    background-color: #f9f9f9;
+    background-color: #8CA594;
     color: #999999;
     border: 1px solid #999999;
     padding: 6px 12px;
@@ -157,7 +157,7 @@ body {
   
   .button:hover,
   .footer-links a:hover {
-    background-color: #999999;
+    background-color: #D1E7D8;
     color: #ffffff;
   }
 
