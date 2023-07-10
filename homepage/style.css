@@ -114,7 +114,6 @@ body {
 
   .footer-buttons {
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
     margin-top: 10px;
   }
@@ -128,8 +127,6 @@ body {
     margin: 5px;
     text-decoration: none;
     border-radius: 5px;
-    flex: 1;
-    text-align: center;
   }
   
   .button-download {
@@ -141,6 +138,10 @@ body {
     margin: 5px;
     text-decoration: none;
     border-radius: 5px;
+  }
+  
+  .footer-buttons .button,
+  .footer-buttons .button-download {
     flex: 1;
     text-align: center;
   }
