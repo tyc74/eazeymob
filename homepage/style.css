@@ -89,6 +89,7 @@ body {
     padding: 10px;
     margin-top: 20px;
     text-align: center;
+    border-radius: 10px;
   }
   
   .footer-links {
@@ -119,21 +120,25 @@ body {
   }
   
   .button {
+    font-family: "Montserrat", sans-serif;
     background-color: #f9f9f9;
     color: #999999;
     border: 1px solid #999999;
     padding: 6px 12px;
     margin: 5px;
     text-decoration: none;
+    border-radius: 5px;
   }
   
   .button-download {
+    font-family: "Montserrat", sans-serif;
     background-color: #f9f9f9;
     color: #999999;
     border: 1px solid #999999;
     padding: 6px 12px;
     margin: 5px;
     text-decoration: none;
+    border-radius: 5px;
   }
   
   .button:hover,
