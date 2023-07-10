@@ -110,7 +110,7 @@ body {
     text-decoration: none;
     color: #999999;
   }
-
+  
   .footer {
     background-color: #D1E7D8;
     padding: 10px;
@@ -157,7 +157,7 @@ body {
   
   .button:hover,
   .footer-links a:hover {
-    background-color: #D1E7D8;
+    background-color: #EBF8EF;
     color: #ffffff;
   }
 
